@@ -1,0 +1,6 @@
+x=input("input your number x:")
+y=input ("input your number y:")
+x=float(x)
+y=float(y)
+sum=(x+y)
+print(sum)
